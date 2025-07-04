@@ -5,8 +5,7 @@ A web-based application developed as a personal project to manage student academ
 It provides a centralized and secure system for both students and teachers to access relevant data efficiently, eliminating the need for manual file systems.
 
 
-
-# 📖 Project Description
+## 📖 Project Description
 
 This system stores complete details of students along with their previous semester marks, current semester subjects, and links to study materials. It allows role-based login for both students and teachers.
 
@@ -27,8 +26,7 @@ Teachers can log in to:
 All user credentials and data are securely stored in a MySQL database, and access is controlled based on the user’s role. Students can only access their own data, while teachers can access any student’s records.
 
 
-
-# ✨ Features
+## ✨ Features
 
   Role-based login (Student / Teacher)
 
@@ -45,8 +43,7 @@ All user credentials and data are securely stored in a MySQL database, and acces
   Clean and responsive UI
 
 
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -57,8 +54,7 @@ Database: MySQL
 Web Server: XAMPP / Apache
 
 
-
-# ▶️ How to Run
+## ▶️ How to Run
 
 Clone or download the repository:
 
@@ -75,8 +71,7 @@ Open your browser and go to:
 http://localhost/student-record-management-system/home.php
 
 
-
-# 📁 File Overview
+## 📁 File Overview
 
 home.php – Login page
 
@@ -93,8 +88,7 @@ college.jpeg, logo.jpeg – Visual assets
 exit.php – Logout function
 
 
-
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 Export marksheets as PDFs
 
@@ -107,8 +101,7 @@ Use AJAX for smoother interactivity
 Enhanced UI styling with CSS frameworks
 
 
-
-# 🙋‍♀️ Author
+## 🙋‍♀️ Author
 
 Chamanthi Pyneni
 
